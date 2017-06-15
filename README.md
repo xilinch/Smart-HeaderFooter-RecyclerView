@@ -41,6 +41,12 @@ dependencies {
       recyclerView.setAdapter(smartRecyclerAdapter);
 ```
 
+-----基于songhanghang开源项目，项目原地址是https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView 以上感谢原作者songhanghang，
+## 修复内容
+* 1，修复适配器中对单列和多列不能并存的bug
+* 2，修复添加headerView和footerView显示位置的问题
+
+
 ## Screenshot
 ![Renderings](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView/blob/master/screenshot/screen.png)
 ![Renderings](https://github.com/songhanghang/Smart-HeaderFooter-Recyclerview/blob/master/screenshot/hammerheadMRA58Nsonghang04272016134831.gif)
